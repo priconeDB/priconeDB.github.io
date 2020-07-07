@@ -1,0 +1,55 @@
+
+013611.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 4, 15
+  size: 386, 375
+  orig: 388, 378
+  offset: 1, 2
+  index: -1
+normal/eyeClose
+  rotate: false
+  xy: 4, 15
+  size: 386, 375
+  orig: 388, 378
+  offset: 1, 2
+  index: -1
+normal/eyeOpen
+  rotate: false
+  xy: 4, 15
+  size: 386, 375
+  orig: 388, 378
+  offset: 1, 2
+  index: -1
+normal/mouthClose
+  rotate: false
+  xy: 4, 15
+  size: 386, 375
+  orig: 388, 378
+  offset: 1, 2
+  index: -1
+normal/mouthIdle
+  rotate: false
+  xy: 4, 15
+  size: 386, 375
+  orig: 388, 378
+  offset: 1, 2
+  index: -1
+normal/mouthOpen
+  rotate: false
+  xy: 4, 15
+  size: 386, 375
+  orig: 388, 378
+  offset: 1, 2
+  index: -1
+normal/mouthOpen2
+  rotate: false
+  xy: 4, 15
+  size: 386, 375
+  orig: 388, 378
+  offset: 1, 2
+  index: -1

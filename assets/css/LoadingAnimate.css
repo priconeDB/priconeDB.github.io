@@ -1,0 +1,141 @@
+.hide {
+  opacity: 0 !important;
+}
+
+.none {
+  display: none !important;
+}
+
+.loading-bg {
+  background: url("../images/shared/loading/bg-loading.gif") repeat center top;
+}
+
+body {
+  overflow-y: scroll;
+}
+
+.loading {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 9998;
+  background: url("../images/shared/loading/bg-loading.gif") repeat center top;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  transition: transform 330ms;
+  transition-timing-function: ease-in-out;
+  transform: translate3d(0, 0, 0);
+}
+.loading.ready {
+  transform: translate3d(-100%, 0, 0);
+  transition-duration: 400ms;
+}
+.loading.remove {
+  transform: translate3d(100%, 0, 0);
+  transition-delay: 400ms;
+  transition-duration: 300ms;
+}
+
+#loading_character {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+  transition: all 1100ms;
+  transition-timing-function: ease-in-out;
+}
+#loading_character.ready {
+  left: -100%;
+}
+#loading_character.remove {
+  left: 200%;
+}
+#loading_character .charcter-container {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  background: url("../images/shared/loading/sprite01.png") no-repeat center;
+  background-size: 100%;
+}
+#loading_character .charcter-container.char01 {
+  animation: spriteAnime01 700ms steps(18) infinite;
+}
+@keyframes spriteAnime01 {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 0 -3600px;
+  }
+}
+#loading_character .charcter-container.char02 {
+  background-image: url("../images/shared/loading/sprite02.png");
+  animation: spriteAnime02 700ms steps(19) infinite;
+}
+@keyframes spriteAnime02 {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 0 -3800px;
+  }
+}
+#loading_character .charcter-container.char03 {
+  background-image: url("../images/shared/loading/sprite03.png");
+  animation: spriteAnime03 700ms steps(19) infinite;
+}
+@keyframes spriteAnime03 {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 0 -3800px;
+  }
+}
+#loading_character .text_loading {
+  position: absolute;
+  bottom: 21px;
+  left: 37px;
+  transition: opacity 400ms;
+}
+#loading_character .text_loading.hide {
+  transition-delay: 0ms;
+}
+#loading_character .text_loading span {
+  position: absolute;
+  display: block;
+  left: 24px;
+  top: -1px;
+}
+#loading_character .text_loading .icon_loading {
+  width: 16px;
+  height: 16px;
+  left: 0;
+  top: 0;
+  transform-origin: 50%;
+  animation: iconRotate 500ms ease-in-out infinite;
+}
+@keyframes iconRotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  80% {
+    transform: rotate(360deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+h2,
+.contents-fade {
+  transition: opacity 900ms;
+  transition-delay: 1200ms;
+  transition-timing-function: ease-in-out;
+}
+h2.short-delay,
+.contents-fade.short-delay {
+  transition-delay: 400ms !important;
+}

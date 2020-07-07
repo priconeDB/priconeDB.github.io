@@ -1,0 +1,55 @@
+
+001521.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 4, 183
+  size: 516, 1056
+  orig: 520, 1058
+  offset: 1, 1
+  index: -1
+normal/eyeClose
+  rotate: false
+  xy: 4, 29
+  size: 159, 150
+  orig: 162, 154
+  offset: 1, 3
+  index: -1
+normal/eyeOpen
+  rotate: false
+  xy: 524, 1089
+  size: 159, 150
+  orig: 162, 154
+  offset: 1, 3
+  index: -1
+normal/mouthClose
+  rotate: false
+  xy: 4, 4
+  size: 52, 21
+  orig: 54, 24
+  offset: 1, 2
+  index: -1
+normal/mouthIdle
+  rotate: false
+  xy: 4, 4
+  size: 52, 21
+  orig: 54, 24
+  offset: 1, 2
+  index: -1
+normal/mouthOpen
+  rotate: false
+  xy: 167, 151
+  size: 42, 28
+  orig: 44, 30
+  offset: 1, 1
+  index: -1
+normal/mouthOpen2
+  rotate: false
+  xy: 524, 1060
+  size: 42, 25
+  orig: 44, 28
+  offset: 1, 2
+  index: -1

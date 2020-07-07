@@ -1,0 +1,13 @@
+
+010911.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 218
+  size: 504, 288
+  orig: 506, 290
+  offset: 1, 1
+  index: -1

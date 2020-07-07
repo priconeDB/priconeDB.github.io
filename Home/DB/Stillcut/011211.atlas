@@ -1,0 +1,13 @@
+
+011211.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 216
+  size: 1410, 1196
+  orig: 1412, 1198
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,13 @@
+
+104732.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 2
+  size: 555, 1051
+  orig: 972, 1166
+  offset: 253, 0
+  index: -1

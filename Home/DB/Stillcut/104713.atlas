@@ -1,0 +1,265 @@
+
+104713.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anger/eyeClose
+  rotate: false
+  xy: 2, 29
+  size: 115, 96
+  orig: 118, 98
+  offset: 1, 1
+  index: -1
+anger/eyeOpen
+  rotate: false
+  xy: 2, 29
+  size: 115, 96
+  orig: 118, 98
+  offset: 1, 1
+  index: -1
+joy/eyeClose
+  rotate: false
+  xy: 2, 29
+  size: 115, 96
+  orig: 118, 98
+  offset: 1, 1
+  index: -1
+joy/eyeOpen
+  rotate: false
+  xy: 2, 29
+  size: 115, 96
+  orig: 118, 98
+  offset: 1, 1
+  index: -1
+normal/eyeClose
+  rotate: false
+  xy: 2, 29
+  size: 115, 96
+  orig: 118, 98
+  offset: 1, 1
+  index: -1
+normal/eyeOpen
+  rotate: false
+  xy: 2, 29
+  size: 115, 96
+  orig: 118, 98
+  offset: 1, 1
+  index: -1
+sad/eyeClose
+  rotate: false
+  xy: 2, 29
+  size: 115, 96
+  orig: 118, 98
+  offset: 1, 1
+  index: -1
+sad/eyeOpen
+  rotate: false
+  xy: 2, 29
+  size: 115, 96
+  orig: 118, 98
+  offset: 1, 1
+  index: -1
+shy/eyeClose
+  rotate: false
+  xy: 2, 29
+  size: 115, 96
+  orig: 118, 98
+  offset: 1, 1
+  index: -1
+shy/eyeOpen
+  rotate: false
+  xy: 2, 29
+  size: 115, 96
+  orig: 118, 98
+  offset: 1, 1
+  index: -1
+surprised/eyeClose
+  rotate: false
+  xy: 2, 29
+  size: 115, 96
+  orig: 118, 98
+  offset: 1, 1
+  index: -1
+surprised/eyeOpen
+  rotate: false
+  xy: 2, 29
+  size: 115, 96
+  orig: 118, 98
+  offset: 1, 1
+  index: -1
+anger/mouthClose
+  rotate: false
+  xy: 778, 1172
+  size: 23, 4
+  orig: 26, 6
+  offset: 1, 1
+  index: -1
+anger/mouthIdle
+  rotate: false
+  xy: 778, 1172
+  size: 23, 4
+  orig: 26, 6
+  offset: 1, 1
+  index: -1
+anger/mouthOpen
+  rotate: false
+  xy: 2, 17
+  size: 25, 10
+  orig: 28, 14
+  offset: 1, 3
+  index: -1
+anger/mouthOpen2
+  rotate: false
+  xy: 714, 1144
+  size: 25, 6
+  orig: 28, 8
+  offset: 1, 1
+  index: -1
+base
+  rotate: false
+  xy: 2, 127
+  size: 710, 1049
+  orig: 712, 1052
+  offset: 1, 2
+  index: -1
+joy/mouthClose
+  rotate: false
+  xy: 29, 22
+  size: 25, 5
+  orig: 28, 8
+  offset: 1, 2
+  index: -1
+joy/mouthIdle
+  rotate: false
+  xy: 29, 22
+  size: 25, 5
+  orig: 28, 8
+  offset: 1, 2
+  index: -1
+joy/mouthOpen
+  rotate: false
+  xy: 119, 118
+  size: 26, 7
+  orig: 28, 10
+  offset: 1, 2
+  index: -1
+joy/mouthOpen2
+  rotate: false
+  xy: 750, 1171
+  size: 26, 5
+  orig: 28, 8
+  offset: 1, 2
+  index: -1
+normal/mouthClose
+  rotate: false
+  xy: 2, 2
+  size: 23, 4
+  orig: 26, 6
+  offset: 1, 1
+  index: -1
+normal/mouthIdle
+  rotate: false
+  xy: 2, 2
+  size: 23, 4
+  orig: 26, 6
+  offset: 1, 1
+  index: -1
+normal/mouthOpen
+  rotate: false
+  xy: 2, 8
+  size: 24, 7
+  orig: 26, 10
+  offset: 1, 2
+  index: -1
+normal/mouthOpen2
+  rotate: false
+  xy: 714, 1138
+  size: 24, 4
+  orig: 26, 6
+  offset: 1, 1
+  index: -1
+sad/mouthClose
+  rotate: false
+  xy: 714, 1152
+  size: 34, 24
+  orig: 36, 26
+  offset: 1, 1
+  index: -1
+sad/mouthIdle
+  rotate: false
+  xy: 714, 1152
+  size: 34, 24
+  orig: 36, 26
+  offset: 1, 1
+  index: -1
+sad/mouthOpen
+  rotate: false
+  xy: 119, 109
+  size: 23, 7
+  orig: 26, 10
+  offset: 1, 2
+  index: -1
+sad/mouthOpen2
+  rotate: false
+  xy: 750, 1164
+  size: 23, 5
+  orig: 26, 8
+  offset: 1, 2
+  index: -1
+shy/mouthClose
+  rotate: false
+  xy: 28, 11
+  size: 21, 4
+  orig: 24, 6
+  offset: 1, 1
+  index: -1
+shy/mouthIdle
+  rotate: false
+  xy: 28, 11
+  size: 21, 4
+  orig: 24, 6
+  offset: 1, 1
+  index: -1
+shy/mouthOpen
+  rotate: false
+  xy: 147, 120
+  size: 24, 5
+  orig: 26, 8
+  offset: 1, 2
+  index: -1
+shy/mouthOpen2
+  rotate: false
+  xy: 29, 17
+  size: 23, 3
+  orig: 26, 6
+  offset: 1, 2
+  index: -1
+surprised/mouthClose
+  rotate: false
+  xy: 56, 23
+  size: 16, 4
+  orig: 18, 6
+  offset: 1, 1
+  index: -1
+surprised/mouthIdle
+  rotate: false
+  xy: 56, 23
+  size: 16, 4
+  orig: 18, 6
+  offset: 1, 1
+  index: -1
+surprised/mouthOpen
+  rotate: false
+  xy: 119, 98
+  size: 16, 9
+  orig: 18, 12
+  offset: 1, 2
+  index: -1
+surprised/mouthOpen2
+  rotate: false
+  xy: 714, 1130
+  size: 16, 6
+  orig: 18, 8
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,55 @@
+
+102321.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 164
+  size: 1165, 1162
+  orig: 1168, 1164
+  offset: 1, 1
+  index: -1
+normal/eyeClose
+  rotate: false
+  xy: 2, 74
+  size: 158, 88
+  orig: 160, 90
+  offset: 1, 1
+  index: -1
+normal/eyeOpen
+  rotate: false
+  xy: 1169, 1237
+  size: 157, 89
+  orig: 160, 92
+  offset: 1, 2
+  index: -1
+normal/mouthClose
+  rotate: false
+  xy: 162, 154
+  size: 31, 8
+  orig: 34, 10
+  offset: 1, 1
+  index: -1
+normal/mouthIdle
+  rotate: false
+  xy: 162, 154
+  size: 31, 8
+  orig: 34, 10
+  offset: 1, 1
+  index: -1
+normal/mouthOpen
+  rotate: false
+  xy: 2, 60
+  size: 31, 12
+  orig: 34, 14
+  offset: 1, 1
+  index: -1
+normal/mouthOpen2
+  rotate: false
+  xy: 1169, 1227
+  size: 31, 8
+  orig: 34, 10
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,13 @@
+
+001711.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 62
+  size: 472, 412
+  orig: 474, 414
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,55 @@
+
+012811.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 4, 202
+  size: 945, 747
+  orig: 948, 750
+  offset: 1, 2
+  index: -1
+normal/eyeClose
+  rotate: false
+  xy: 4, 128
+  size: 109, 70
+  orig: 112, 72
+  offset: 1, 1
+  index: -1
+normal/eyeOpen
+  rotate: false
+  xy: 4, 128
+  size: 109, 70
+  orig: 112, 72
+  offset: 1, 1
+  index: -1
+normal/mouthClose
+  rotate: false
+  xy: 4, 128
+  size: 109, 70
+  orig: 112, 72
+  offset: 1, 1
+  index: -1
+normal/mouthIdle
+  rotate: false
+  xy: 4, 128
+  size: 109, 70
+  orig: 112, 72
+  offset: 1, 1
+  index: -1
+normal/mouthOpen
+  rotate: false
+  xy: 4, 128
+  size: 109, 70
+  orig: 112, 72
+  offset: 1, 1
+  index: -1
+normal/mouthOpen2
+  rotate: false
+  xy: 4, 128
+  size: 109, 70
+  orig: 112, 72
+  offset: 1, 1
+  index: -1

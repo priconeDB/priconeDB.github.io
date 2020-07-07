@@ -1,0 +1,55 @@
+
+013411.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 4, 4
+  size: 630, 700
+  orig: 632, 702
+  offset: 1, 1
+  index: -1
+normal/eyeClose
+  rotate: false
+  xy: 4, 4
+  size: 630, 700
+  orig: 632, 702
+  offset: 1, 1
+  index: -1
+normal/eyeOpen
+  rotate: false
+  xy: 4, 4
+  size: 630, 700
+  orig: 632, 702
+  offset: 1, 1
+  index: -1
+normal/mouthClose
+  rotate: false
+  xy: 4, 4
+  size: 630, 700
+  orig: 632, 702
+  offset: 1, 1
+  index: -1
+normal/mouthIdle
+  rotate: false
+  xy: 4, 4
+  size: 630, 700
+  orig: 632, 702
+  offset: 1, 1
+  index: -1
+normal/mouthOpen
+  rotate: false
+  xy: 4, 4
+  size: 630, 700
+  orig: 632, 702
+  offset: 1, 1
+  index: -1
+normal/mouthOpen2
+  rotate: false
+  xy: 4, 4
+  size: 630, 700
+  orig: 632, 702
+  offset: 1, 1
+  index: -1

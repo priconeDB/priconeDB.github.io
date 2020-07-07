@@ -1,0 +1,13 @@
+
+000013.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 530
+  size: 1173, 645
+  orig: 1176, 648
+  offset: 1, 2
+  index: -1

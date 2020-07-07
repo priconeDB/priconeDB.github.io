@@ -1,0 +1,265 @@
+
+103831.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anger/eyeClose
+  rotate: false
+  xy: 601, 737
+  size: 135, 93
+  orig: 138, 96
+  offset: 1, 2
+  index: -1
+anger/eyeOpen
+  rotate: false
+  xy: 462, 832
+  size: 148, 93
+  orig: 150, 96
+  offset: 1, 2
+  index: -1
+anger/mouthClose
+  rotate: false
+  xy: 2, 2
+  size: 16, 8
+  orig: 18, 10
+  offset: 1, 1
+  index: -1
+anger/mouthIdle
+  rotate: false
+  xy: 2, 2
+  size: 16, 8
+  orig: 18, 10
+  offset: 1, 1
+  index: -1
+anger/mouthOpen
+  rotate: false
+  xy: 2, 12
+  size: 32, 6
+  orig: 34, 8
+  offset: 1, 1
+  index: -1
+anger/mouthOpen2
+  rotate: true
+  xy: 451, 683
+  size: 15, 4
+  orig: 18, 6
+  offset: 1, 1
+  index: -1
+base
+  rotate: false
+  xy: 2, 20
+  size: 308, 1002
+  orig: 310, 1004
+  offset: 1, 1
+  index: -1
+joy/eyeClose
+  rotate: false
+  xy: 312, 527
+  size: 135, 95
+  orig: 138, 98
+  offset: 1, 2
+  index: -1
+joy/eyeOpen
+  rotate: false
+  xy: 312, 916
+  size: 148, 106
+  orig: 150, 108
+  offset: 1, 1
+  index: -1
+joy/mouthClose
+  rotate: false
+  xy: 36, 12
+  size: 17, 6
+  orig: 20, 8
+  offset: 1, 1
+  index: -1
+joy/mouthIdle
+  rotate: false
+  xy: 36, 12
+  size: 17, 6
+  orig: 20, 8
+  offset: 1, 1
+  index: -1
+joy/mouthOpen
+  rotate: false
+  xy: 462, 726
+  size: 17, 7
+  orig: 20, 10
+  offset: 1, 2
+  index: -1
+joy/mouthOpen2
+  rotate: true
+  xy: 738, 813
+  size: 17, 4
+  orig: 20, 6
+  offset: 1, 1
+  index: -1
+normal/eyeClose
+  rotate: false
+  xy: 312, 624
+  size: 137, 95
+  orig: 140, 98
+  offset: 1, 2
+  index: -1
+normal/eyeOpen
+  rotate: false
+  xy: 462, 927
+  size: 148, 95
+  orig: 150, 98
+  offset: 1, 2
+  index: -1
+normal/mouthClose
+  rotate: false
+  xy: 312, 521
+  size: 18, 4
+  orig: 20, 6
+  offset: 1, 1
+  index: -1
+normal/mouthIdle
+  rotate: false
+  xy: 312, 521
+  size: 18, 4
+  orig: 20, 6
+  offset: 1, 1
+  index: -1
+normal/mouthOpen
+  rotate: true
+  xy: 451, 700
+  size: 19, 7
+  orig: 22, 10
+  offset: 1, 2
+  index: -1
+normal/mouthOpen2
+  rotate: false
+  xy: 749, 924
+  size: 19, 4
+  orig: 22, 6
+  offset: 1, 1
+  index: -1
+sad/eyeClose
+  rotate: false
+  xy: 762, 930
+  size: 135, 92
+  orig: 138, 94
+  offset: 1, 1
+  index: -1
+sad/eyeOpen
+  rotate: false
+  xy: 612, 930
+  size: 148, 92
+  orig: 150, 94
+  offset: 1, 1
+  index: -1
+sad/mouthClose
+  rotate: false
+  xy: 55, 15
+  size: 16, 3
+  orig: 18, 6
+  offset: 1, 2
+  index: -1
+sad/mouthIdle
+  rotate: false
+  xy: 55, 15
+  size: 16, 3
+  orig: 18, 6
+  offset: 1, 2
+  index: -1
+sad/mouthOpen
+  rotate: true
+  xy: 55, 2
+  size: 11, 4
+  orig: 14, 6
+  offset: 1, 1
+  index: -1
+sad/mouthOpen2
+  rotate: true
+  xy: 61, 2
+  size: 11, 3
+  orig: 14, 6
+  offset: 1, 2
+  index: -1
+shy/eyeClose
+  rotate: false
+  xy: 612, 832
+  size: 135, 96
+  orig: 138, 98
+  offset: 1, 1
+  index: -1
+shy/eyeOpen
+  rotate: false
+  xy: 312, 818
+  size: 148, 96
+  orig: 150, 98
+  offset: 1, 1
+  index: -1
+shy/mouthClose
+  rotate: false
+  xy: 38, 6
+  size: 15, 4
+  orig: 18, 6
+  offset: 1, 1
+  index: -1
+shy/mouthIdle
+  rotate: false
+  xy: 38, 6
+  size: 15, 4
+  orig: 18, 6
+  offset: 1, 1
+  index: -1
+shy/mouthOpen
+  rotate: false
+  xy: 20, 2
+  size: 16, 8
+  orig: 18, 10
+  offset: 1, 1
+  index: -1
+shy/mouthOpen2
+  rotate: false
+  xy: 899, 1017
+  size: 16, 5
+  orig: 18, 8
+  offset: 1, 2
+  index: -1
+surprised/eyeClose
+  rotate: false
+  xy: 462, 735
+  size: 137, 95
+  orig: 140, 98
+  offset: 1, 2
+  index: -1
+surprised/eyeOpen
+  rotate: false
+  xy: 312, 721
+  size: 148, 95
+  orig: 150, 98
+  offset: 1, 2
+  index: -1
+surprised/mouthClose
+  rotate: false
+  xy: 481, 729
+  size: 8, 4
+  orig: 10, 6
+  offset: 1, 1
+  index: -1
+surprised/mouthIdle
+  rotate: false
+  xy: 481, 729
+  size: 8, 4
+  orig: 10, 6
+  offset: 1, 1
+  index: -1
+surprised/mouthOpen
+  rotate: false
+  xy: 749, 913
+  size: 10, 9
+  orig: 14, 12
+  offset: 1, 2
+  index: -1
+surprised/mouthOpen2
+  rotate: false
+  xy: 462, 721
+  size: 8, 3
+  orig: 10, 6
+  offset: 1, 2
+  index: -1
