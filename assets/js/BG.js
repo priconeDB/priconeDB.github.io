@@ -30,9 +30,39 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg/bg01.jpg': 'center',
-							'images/bg/bg02.jpg': 'center',
-							'images/bg/bg03.jpg': 'center'
+							'images/bg/bg1.jpg': 'center',
+							'images/bg/bg2.jpg': 'center',
+							'images/bg/bg3.jpg': 'center',
+							'images/bg/bg4.jpg': 'center',
+							'images/bg/bg5.jpg': 'center',
+							'images/bg/bg6.jpg': 'center',
+							'images/bg/bg7.jpg': 'center',
+							'images/bg/bg8.jpg': 'center',
+							'images/bg/bg9.jpg': 'center',
+							'images/bg/bg10.jpg': 'center',
+							'images/bg/bg12.jpg': 'center',
+							'images/bg/bg13.jpg': 'center',
+							'images/bg/bg14.jpg': 'center',
+							'images/bg/bg15.jpg': 'center',
+							'images/bg/bg16.jpg': 'center',
+							'images/bg/bg17.jpg': 'center',
+							'images/bg/bg18.jpg': 'center',
+							'images/bg/bg19.jpg': 'center',
+							'images/bg/bg20.jpg': 'center',
+							'images/bg/bg21.jpg': 'center',
+							'images/bg/bg22.jpg': 'center',
+							'images/bg/bg23.jpg': 'center',
+							'images/bg/bg24.jpg': 'center',
+							'images/bg/bg25.jpg': 'center',
+							'images/bg/bg26.jpg': 'center',
+							'images/bg/bg27.jpg': 'center',
+							'images/bg/bg28.jpg': 'center',
+							'images/bg/bg29.jpg': 'center',
+							'images/bg/bg30.jpg': 'center',
+							'images/bg/bg31.jpg': 'center',
+							'images/bg/bg32.jpg': 'center',
+							'images/bg/bg33.jpg': 'center',
+							'images/bg/bg34.jpg': 'center',
 						},
 
 					// Delay.
@@ -45,22 +75,30 @@
 					$wrapper, $bgs = [], $bg,
 					k, v;
 
+				var	jsrandom;
+				var i, max = 34;
+				var num = 0;
+
 			// Create BG wrapper, BGs.
 				$wrapper = document.createElement('div');
 					$wrapper.id = 'bg';
 					$body.appendChild($wrapper);
 
-				for (k in settings.images) {
-
+				for(k in settings.images)
+				{
+					jsrandom = Math.random();
+					num = Math.floor(jsrandom*max+1);
 					// Create BG.
-						$bg = document.createElement('div');
-							$bg.style.backgroundImage = 'url("' + k + '")';
-							$bg.style.backgroundPosition = settings.images[k];
-							$wrapper.appendChild($bg);
+					$bg = document.createElement('div');
+					//$bg.style.backgroundImage = 'url("' + k + '")';
+					$bg.style.backgroundImage = 'url("images/bg/bg' + num + '.jpg")';
+					$bg.style.backgroundPosition = settings.images[k];
+					$wrapper.appendChild($bg);
 
-					// Add it to array.
-						$bgs.push($bg);
-
+					//document.write(num+'\n');
+					
+				// Add it to array.
+					$bgs.push($bg);
 				}
 
 			// Main loop.
